@@ -1,4 +1,4 @@
-# Identifying app reviews discussing app key benefits
+# Identifying actionable app reviews
 
 This repo contains the code for the **text mining project** that was part of the course TDDE16 (Text mining) at Linköping University. 
 
