@@ -1,5 +1,6 @@
-# tdde16-project-report
-This repo contains the code for the text mining project that was part of the course TDDE16 (Text mining)
+# Identifying app reviews discussing app key benefits
+
+This repo contains the code for the **text mining project** that was part of the course TDDE16 (Text mining) at Linköping University. 
 
 Techniques and concepts used are:
 
